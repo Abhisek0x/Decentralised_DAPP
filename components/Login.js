@@ -10,8 +10,8 @@ function Login() {
 		<div className="bg-black relative text-white">
 			<div className="flex flex-col absolute z-50 h-4/6 items-center justify-center w-full space-y-8">
 				<div class="max-w-sm rounded overflow-hidden shadow-lg bg-slate-600 bg-opacity-50 hover:animate-pulse">
-					<div class="px-6 py-4">
-						<p class="text-gray-700 text-base space-y-5">
+					<div className="px-6 py-4">
+						<p className="text-gray-700 text-base space-y-5">
 							<Image
 								className="object-cover rounded-full "
 								src={mynft}
